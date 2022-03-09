@@ -1,0 +1,10 @@
+[val] result:
+[Classification] Acc: 0.9020, Sens: 0.8293, Spec: 0.9286]
+[Segmentation] MPA: 0.8649]
+
+[test] result:
+[Classification] Acc: 0.8627, Sens: 0.8444, Spec: 0.8704]
+[Segmentation] MPA: 0.8750]
+
+Dummy classifier accuracy (test set):  0.7059
+Dummy segmentation model (test set): 0.9143 (10.67 times more zero pixels)

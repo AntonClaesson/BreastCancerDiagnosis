@@ -5,9 +5,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-/data/
+/data/benign/images/*.png
+/data/benign/masks/*.png
+/data/benign/temp/*.png
+/data/malignant/images/*.png
+/data/malignant/masks/*.png
+/data/malignant/temp/*.png
+/data/normal/images/*.png
+/data/normal/masks/*.png
+
 /checkpoints/*.pth
-/results/
 
 # C extensions
 *.so
